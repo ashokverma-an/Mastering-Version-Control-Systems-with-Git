@@ -1,5 +1,5 @@
 # Mastering-Version-Control-Systems-with-Git
-ection 1: Understanding Version Control Systems
+Section 1: Understanding Version Control Systems
 
 Page 1.1: Importance of Version Control
 
